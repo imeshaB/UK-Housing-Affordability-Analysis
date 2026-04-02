@@ -1,0 +1,6 @@
+Metric,Value
+Number of Regions,10
+Average Validation MAE,0.4174
+Average Validation RMSE,0.5437
+Best Validation RMSE Region,North East
+Worst Validation RMSE Region,London
