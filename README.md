@@ -38,7 +38,6 @@ Models evaluated:
 - Linear Trend Regression  
 - ARIMA (1,1,1)  
 - Holt Exponential Smoothing  
-- Random Forest (lag features)
 
 ---
 
@@ -47,7 +46,6 @@ Models evaluated:
 | Model | RMSE |
 |------|------|
 | **Rolling Mean (2)** | **0.51 ✅ Best** |
-| Random Forest (lags) | 0.52 |
 | Naive Baseline | 0.54 |
 | Linear Trend | 0.58 |
 | ARIMA | 0.61 |
