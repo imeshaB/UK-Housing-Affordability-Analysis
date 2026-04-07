@@ -1,4 +1,4 @@
-# 🏠 UK Housing Affordability Analysis  
+# 🏠 UK Housing Affordability Analysis
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-lightgrey)
@@ -6,172 +6,149 @@
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-🚀 End-to-end data analytics & forecasting project analysing UK housing affordability using ONS data and time-series modelling.
+🚀 End-to-end data analytics project analyzing UK housing affordability trends using ONS data, time-series forecasting, and Tableau dashboards.
 
 ---
 
-## 📊 Dashboard Preview  
+## Problem Statement
 
-![Dashboard](Outputs/Figures/UK%20Housing%20Affordability%20Dashboard.png)
+Housing affordability in the UK has worsened significantly over the past two decades, with **house prices rising faster than earnings**, creating economic and social challenges.  
 
----
+This project aims to:
 
-# 📌 The Problem  
-
-Housing affordability in the UK has become a **major economic and social challenge**.  
-
-- House prices are rising faster than earnings  
-- Regional inequality continues to widen  
-- Policymakers need **data-driven insights** to respond effectively  
-
-👉 But how severe is the problem — and what happens next?
+- Analyse historical trends (2002–2024)  
+- Identify **regional disparities**  
+- Forecast future affordability (2025–2029)  
+- Deliver actionable insights for **policy, investment, and planning decisions**
 
 ---
 
-# 🎯 Project Goal  
+## Project Goal
 
-This project answers that by:  
+Turn complex housing data into **clear insights and forecasts** that show:
 
-- Analysing affordability trends (2002–2024)  
-- Comparing regional disparities  
-- Forecasting affordability (2025–2029)  
-- Delivering insights via **Tableau dashboards**  
-
----
-
-# 📊 Key Insights (TL;DR)
-
-- Affordability worsened from **5.12 → 8.05**  
-- House prices consistently outpaced earnings  
-- London & South East are the least affordable  
-- Forecast shows **continued pressure (8.43 by 2029)**  
-
-👉 **Conclusion:** UK housing affordability is a long-term structural issue  
+- How affordability is changing over time  
+- Which regions are most/least affected  
+- How future trends are likely to evolve
 
 ---
 
-# 📈 Evidence & Analysis  
+## Key Insights
 
-## 📈 UK Affordability Trend  
+- UK affordability worsened from **5.12 (2002)** → **8.05 (2024)**  
+- **House prices consistently outpace earnings**, indicating structural pressure  
+- **London & South East** are the least affordable regions; **North East** is most affordable  
+- Forecast shows continued pressure with UK ratio reaching **8.43 by 2029**  
+- Regional analysis reveals **hidden disparities** not visible in aggregate data
+
+---
+
+## Tableau Dashboard Visuals
+
+### 📈 UK Affordability Trend
 
 ![UK Trend - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/UK%20Trend%20(Dasboard%20Worksheet).png)
 
-- Clear upward trend over time  
-- Indicates worsening affordability  
-
-📊 Built in Tableau to simulate real-world dashboards  
+📊 Built in Tableau to simulate real-world business dashboards
 
 ---
 
-## 🌍 Regional Comparison  
+### 🌍 Regional Comparison
 
 ![Regional Comparison - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/Regional%20Comaprison%20(Dasboard%20Worksheet).png)
 
-- Strong regional disparities  
-- London & South East show highest pressure  
-
-📊 Built in Tableau to simulate real-world dashboards  
+📊 Shows strong regional disparities
 
 ---
 
-## 📊 Model Validation (Actual vs Predicted)  
+### 📊 Model Validation (Actual vs Predicted)
 
 ![Validation Chart - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/Validation%20ResultsActual%20vs%20Predicted%20Chart%20(Dasboard%20Worksheet).png)
 
-- Strong alignment between actual & predicted  
-- Confirms model reliability  
+📊 Confirms reliability of forecasting models
 
 ---
 
-# 🤖 Forecasting Approach  
+## Methodology
 
-- Applied multiple models:  
-  - Rolling Mean (best)  
-  - Naive  
-  - Linear Regression  
-  - ARIMA  
+- **Data Cleaning & Integration**: Merged ONS, Land Registry, ASHE datasets  
+- **Exploratory Data Analysis (EDA)**: Trends, regional comparisons, affordability gaps  
+- **Affordability Ratio Calculation**: Price-to-income metrics  
+- **Forecasting**: Rolling Mean, Naive, Linear Regression, ARIMA  
+- **Validation**: Walk-forward validation + RMSE analysis  
+- **Visualization**: Tableau dashboards and static charts  
+
+---
+
+## Forecasting Results
 
 | Model | RMSE |
-|------|------|
-| **Rolling Mean (Best)** | **0.51** |
+|-------|------|
+| **Rolling Mean (Best)** | 0.51 |
 | Naive | 0.54 |
 | Linear Regression | 0.58 |
 | ARIMA | 0.61 |
 
-👉 Simple models performed best due to stable trends  
+- **Rolling Mean** performed best due to strong historical trend stability  
 
 ---
 
-# 🔮 Future Outlook  
+## Business & Policy Impact
 
-- 2024 affordability: **8.05**  
-- 2029 forecast: **8.43**  
-
-👉 No meaningful improvement expected without intervention  
-
----
-
-# 💼 Business Impact  
-
-This analysis can support:  
-
-- Housing policy evaluation  
-- Regional planning decisions  
-- Investment strategy  
-- Evidence-based decision-making  
+- Supports **housing policy evaluation**  
+- Highlights **regions with critical affordability pressure**  
+- Informs **investment & planning decisions**  
+- Demonstrates **end-to-end analytical thinking**  
 
 ---
 
-# 🛠️ How It Was Built  
+## Relevance to Roles
 
-## Data Sources  
-- ONS  
-- Land Registry  
-- ASHE  
+### 🏥 NHS / Public Sector
 
-## Tech Stack  
+- Population-level analysis of housing inequality  
+- Evidence-based policy insights  
+- Supports resource allocation and service planning  
+
+### 💼 Consulting
+
+- Structured approach: Problem → Analysis → Insights → Forecast  
+- Communicates actionable insights to stakeholders  
+- Shows ability to **deliver client-ready dashboards**
+
+### 📊 Data Analyst Roles
+
+- Demonstrates data cleaning, validation, EDA  
+- Shows forecasting and modelling expertise  
+- Builds **reliable dashboards** for insight communication  
+
+---
+
+## Tech Stack
+
 - Python (Pandas, NumPy, Statsmodels, Scikit-learn)  
-- SQL  
-- Tableau  
+- SQL (data handling & preparation)  
+- Tableau (dashboard development)  
+- Jupyter Notebook  
 
 ---
 
-# 🔍 Data Engineering & Quality  
+## Future Improvements
 
-- Integrated multiple datasets  
-- Transformed into time-series format  
-- Standardised time structures  
-- Validated across 318 local authorities  
-- Handled missing data  
-
----
-
-# 🧠 Skills Demonstrated  
-
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis  
-- Time-Series Forecasting  
-- Model Validation (Walk-forward)  
-- Data Storytelling & Visualisation  
+- Integrate rental & demographic datasets  
+- Apply advanced forecasting models (Prophet, LSTM)  
+- Build interactive dashboard deployment  
+- Automate real-time data pipeline  
 
 ---
 
-# 🚀 Future Improvements  
-
-- Add rental & demographic data  
-- Apply advanced models (Prophet, LSTM)  
-- Deploy interactive dashboard  
-- Automate pipeline  
-
----
-
-# 📬 Contact  
+## Contact
 
 - 📧 Email: imeshabandara@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/imeshabandara/  
+- 💼 LinkedIn: [imeshabandara](https://www.linkedin.com/in/imeshabandara/)  
 
 ---
 
-## ⭐ If you found this useful  
+## ⭐ If you found this useful
 
-Give this project a ⭐ — it helps visibility!
+Give this project a ⭐ — it helps visibility and supports my work!
