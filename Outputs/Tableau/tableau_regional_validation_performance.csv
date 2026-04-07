@@ -1,0 +1,11 @@
+Region name,Validation_Observations,Validation_Start_Year,Validation_End_Year,MAE,RMSE
+North East,21,2004,2024,0.2872,0.413
+West Midlands,21,2004,2024,0.3327,0.4232
+Yorkshire and The Humber,21,2004,2024,0.3092,0.4351
+North West,21,2004,2024,0.321,0.4483
+Wales,21,2004,2024,0.3385,0.4994
+East Midlands,21,2004,2024,0.3757,0.5056
+South West,21,2004,2024,0.4193,0.5262
+South East,21,2004,2024,0.4835,0.6045
+East of England,21,2004,2024,0.4957,0.6167
+London,21,2004,2024,0.8107,0.9648

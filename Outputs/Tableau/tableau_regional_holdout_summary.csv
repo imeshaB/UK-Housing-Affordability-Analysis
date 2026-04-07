@@ -1,0 +1,6 @@
+Metric,Value
+Number of Regions,10
+Average Holdout MAE,0.4751
+Average Holdout RMSE,0.5695
+Best Holdout RMSE Region,North East
+Worst Holdout RMSE Region,London

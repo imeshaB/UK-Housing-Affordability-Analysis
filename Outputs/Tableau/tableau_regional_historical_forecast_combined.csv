@@ -1,0 +1,291 @@
+Region name,Year,Series_Type,Value
+East Midlands,2002,Historical,4.1145
+East Midlands,2003,Historical,5.0477
+East Midlands,2004,Historical,5.9226
+East Midlands,2005,Historical,6.1271
+East Midlands,2006,Historical,6.2594
+East Midlands,2007,Historical,6.498
+East Midlands,2008,Historical,6.1191
+East Midlands,2009,Historical,5.4357
+East Midlands,2010,Historical,5.7809
+East Midlands,2011,Historical,5.6803
+East Midlands,2012,Historical,5.5874
+East Midlands,2013,Historical,5.5971
+East Midlands,2014,Historical,5.8994
+East Midlands,2015,Historical,6.2009
+East Midlands,2016,Historical,6.2677
+East Midlands,2017,Historical,6.54
+East Midlands,2018,Historical,6.6834
+East Midlands,2019,Historical,6.8117
+East Midlands,2020,Historical,6.7157
+East Midlands,2021,Historical,7.7757
+East Midlands,2022,Historical,7.5437
+East Midlands,2023,Historical,7.4437
+East Midlands,2024,Forecast,6.8357
+East Midlands,2024,Historical,6.8357
+East Midlands,2025,Forecast,7.1397
+East Midlands,2026,Forecast,6.9877
+East Midlands,2027,Forecast,7.0637
+East Midlands,2028,Forecast,7.0257
+East Midlands,2029,Forecast,7.0447
+East of England,2002,Historical,5.5303
+East of England,2003,Historical,6.4033
+East of England,2004,Historical,6.8878
+East of England,2005,Historical,7.2213
+East of England,2006,Historical,7.2776
+East of England,2007,Historical,7.5682
+East of England,2008,Historical,7.462
+East of England,2009,Historical,6.5984
+East of England,2010,Historical,7.0793
+East of England,2011,Historical,7.0111
+East of England,2012,Historical,7.07
+East of England,2013,Historical,7.1847
+East of England,2014,Historical,7.6471
+East of England,2015,Historical,8.3209
+East of England,2016,Historical,8.9171
+East of England,2017,Historical,9.508
+East of England,2018,Historical,9.6798
+East of England,2019,Historical,9.4331
+East of England,2020,Historical,9.3702
+East of England,2021,Historical,10.458
+East of England,2022,Historical,10.196
+East of England,2023,Historical,9.8407
+East of England,2024,Forecast,8.878
+East of England,2024,Historical,8.878
+East of England,2025,Forecast,9.3593
+East of England,2026,Forecast,9.1187
+East of England,2027,Forecast,9.239
+East of England,2028,Forecast,9.1788
+East of England,2029,Forecast,9.2089
+London,2002,Historical,7.1467
+London,2003,Historical,7.8466
+London,2004,Historical,8.2309
+London,2005,Historical,8.3756
+London,2006,Historical,8.6381
+London,2007,Historical,9.2231
+London,2008,Historical,9.2594
+London,2009,Historical,8.4527
+London,2010,Historical,9.1159
+London,2011,Historical,9.4782
+London,2012,Historical,9.6322
+London,2013,Historical,10.3038
+London,2014,Historical,11.7516
+London,2015,Historical,12.9462
+London,2016,Historical,14.1376
+London,2017,Historical,14.5553
+London,2018,Historical,14.513
+London,2019,Historical,13.8881
+London,2020,Historical,13.6541
+London,2021,Historical,14.4975
+London,2022,Historical,14.5306
+London,2023,Historical,13.3797
+London,2024,Forecast,12.3856
+London,2024,Historical,12.3856
+London,2025,Forecast,12.8827
+London,2026,Forecast,12.6341
+London,2027,Forecast,12.7584
+London,2028,Forecast,12.6963
+London,2029,Forecast,12.7273
+North East,2002,Historical,3.204
+North East,2003,Historical,3.855
+North East,2004,Historical,4.7025
+North East,2005,Historical,5.0467
+North East,2006,Historical,5.6108
+North East,2007,Historical,5.6958
+North East,2008,Historical,5.5567
+North East,2009,Historical,5.1067
+North East,2010,Historical,5.3458
+North East,2011,Historical,5.0192
+North East,2012,Historical,4.9333
+North East,2013,Historical,5.0267
+North East,2014,Historical,5.1017
+North East,2015,Historical,5.2292
+North East,2016,Historical,5.2142
+North East,2017,Historical,5.2392
+North East,2018,Historical,5.32
+North East,2019,Historical,5.2608
+North East,2020,Historical,5.2025
+North East,2021,Historical,5.6792
+North East,2022,Historical,5.235
+North East,2023,Historical,5.28
+North East,2024,Forecast,4.7917
+North East,2024,Historical,4.7917
+North East,2025,Forecast,5.0358
+North East,2026,Forecast,4.9138
+North East,2027,Forecast,4.9748
+North East,2028,Forecast,4.9443
+North East,2029,Forecast,4.9595
+North West,2002,Historical,3.3465
+North West,2003,Historical,3.9663
+North West,2004,Historical,4.8483
+North West,2005,Historical,5.29
+North West,2006,Historical,5.6837
+North West,2007,Historical,5.8374
+North West,2008,Historical,5.6437
+North West,2009,Historical,5.2026
+North West,2010,Historical,5.3851
+North West,2011,Historical,5.198
+North West,2012,Historical,5.1211
+North West,2013,Historical,5.1014
+North West,2014,Historical,5.2889
+North West,2015,Historical,5.4431
+North West,2016,Historical,5.5246
+North West,2017,Historical,5.6834
+North West,2018,Historical,5.644
+North West,2019,Historical,5.6811
+North West,2020,Historical,5.7489
+North West,2021,Historical,6.4971
+North West,2022,Historical,6.2974
+North West,2023,Historical,6.146
+North West,2024,Forecast,5.6731
+North West,2024,Historical,5.6731
+North West,2025,Forecast,5.9096
+North West,2026,Forecast,5.7914
+North West,2027,Forecast,5.8505
+North West,2028,Forecast,5.8209
+North West,2029,Forecast,5.8357
+South East,2002,Historical,6.3456
+South East,2003,Historical,7.1411
+South East,2004,Historical,7.6161
+South East,2005,Historical,7.7723
+South East,2006,Historical,7.8728
+South East,2007,Historical,8.2347
+South East,2008,Historical,8.1072
+South East,2009,Historical,7.2095
+South East,2010,Historical,7.7855
+South East,2011,Historical,7.7569
+South East,2012,Historical,7.7577
+South East,2013,Historical,7.9597
+South East,2014,Historical,8.4609
+South East,2015,Historical,9.1394
+South East,2016,Historical,9.8577
+South East,2017,Historical,10.2006
+South East,2018,Historical,10.2562
+South East,2019,Historical,9.9872
+South East,2020,Historical,10.0523
+South East,2021,Historical,11.0084
+South East,2022,Historical,10.8492
+South East,2023,Historical,10.5319
+South East,2024,Forecast,9.5438
+South East,2024,Historical,9.5438
+South East,2025,Forecast,10.0378
+South East,2026,Forecast,9.7908
+South East,2027,Forecast,9.9143
+South East,2028,Forecast,9.8525
+South East,2029,Forecast,9.8834
+South West,2002,Historical,6.0027
+South West,2003,Historical,7.0888
+South West,2004,Historical,7.8158
+South West,2005,Historical,8.1454
+South West,2006,Historical,8.1631
+South West,2007,Historical,8.5712
+South West,2008,Historical,8.3554
+South West,2009,Historical,8.0459
+South West,2010,Historical,8.0519
+South West,2011,Historical,7.8069
+South West,2012,Historical,7.6585
+South West,2013,Historical,7.5523
+South West,2014,Historical,7.8331
+South West,2015,Historical,8.2096
+South West,2016,Historical,8.5104
+South West,2017,Historical,8.7988
+South West,2018,Historical,8.9777
+South West,2019,Historical,9.133
+South West,2020,Historical,8.8492
+South West,2021,Historical,10.0273
+South West,2022,Historical,9.5904
+South West,2023,Historical,9.4596
+South West,2024,Forecast,8.5365
+South West,2024,Historical,8.5365
+South West,2025,Forecast,8.9981
+South West,2026,Forecast,8.7673
+South West,2027,Forecast,8.8827
+South West,2028,Forecast,8.825
+South West,2029,Forecast,8.8538
+Wales,2002,Historical,3.6164
+Wales,2003,Historical,4.2245
+Wales,2004,Historical,5.3023
+Wales,2005,Historical,5.8623
+Wales,2006,Historical,6.1868
+Wales,2007,Historical,6.4155
+Wales,2008,Historical,6.2541
+Wales,2009,Historical,5.6027
+Wales,2010,Historical,5.7336
+Wales,2011,Historical,5.5682
+Wales,2012,Historical,5.5818
+Wales,2013,Historical,5.385
+Wales,2014,Historical,5.4741
+Wales,2015,Historical,5.6077
+Wales,2016,Historical,5.6664
+Wales,2017,Historical,5.6605
+Wales,2018,Historical,5.7195
+Wales,2019,Historical,5.7823
+Wales,2020,Historical,5.7932
+Wales,2021,Historical,6.4986
+Wales,2022,Historical,6.4355
+Wales,2023,Historical,6.1968
+Wales,2024,Forecast,5.8136
+Wales,2024,Historical,5.8136
+Wales,2025,Forecast,6.0052
+Wales,2026,Forecast,5.9094
+Wales,2027,Forecast,5.9573
+Wales,2028,Forecast,5.9334
+Wales,2029,Forecast,5.9454
+West Midlands,2002,Historical,4.6328
+West Midlands,2003,Historical,5.4773
+West Midlands,2004,Historical,6.2247
+West Midlands,2005,Historical,6.3917
+West Midlands,2006,Historical,6.539
+West Midlands,2007,Historical,6.702
+West Midlands,2008,Historical,6.4077
+West Midlands,2009,Historical,5.931
+West Midlands,2010,Historical,6.2997
+West Midlands,2011,Historical,6.1753
+West Midlands,2012,Historical,6.0903
+West Midlands,2013,Historical,5.953
+West Midlands,2014,Historical,6.387
+West Midlands,2015,Historical,6.518
+West Midlands,2016,Historical,6.6667
+West Midlands,2017,Historical,6.8603
+West Midlands,2018,Historical,7.106
+West Midlands,2019,Historical,7.123
+West Midlands,2020,Historical,7.1897
+West Midlands,2021,Historical,7.8887
+West Midlands,2022,Historical,7.6407
+West Midlands,2023,Historical,7.4797
+West Midlands,2024,Forecast,6.9773
+West Midlands,2024,Historical,6.9773
+West Midlands,2025,Forecast,7.2285
+West Midlands,2026,Forecast,7.1029
+West Midlands,2027,Forecast,7.1657
+West Midlands,2028,Forecast,7.1343
+West Midlands,2029,Forecast,7.15
+Yorkshire and The Humber,2002,Historical,3.2407
+Yorkshire and The Humber,2003,Historical,4.032
+Yorkshire and The Humber,2004,Historical,4.8867
+Yorkshire and The Humber,2005,Historical,5.24
+Yorkshire and The Humber,2006,Historical,5.5753
+Yorkshire and The Humber,2007,Historical,5.7427
+Yorkshire and The Humber,2008,Historical,5.586
+Yorkshire and The Humber,2009,Historical,5.0527
+Yorkshire and The Humber,2010,Historical,5.3827
+Yorkshire and The Humber,2011,Historical,5.23
+Yorkshire and The Humber,2012,Historical,5.1127
+Yorkshire and The Humber,2013,Historical,5.0553
+Yorkshire and The Humber,2014,Historical,5.3
+Yorkshire and The Humber,2015,Historical,5.4913
+Yorkshire and The Humber,2016,Historical,5.5293
+Yorkshire and The Humber,2017,Historical,5.7613
+Yorkshire and The Humber,2018,Historical,5.7307
+Yorkshire and The Humber,2019,Historical,5.6833
+Yorkshire and The Humber,2020,Historical,5.7333
+Yorkshire and The Humber,2021,Historical,6.33
+Yorkshire and The Humber,2022,Historical,6.168
+Yorkshire and The Humber,2023,Historical,6.13
+Yorkshire and The Humber,2024,Forecast,5.5687
+Yorkshire and The Humber,2024,Historical,5.5687
+Yorkshire and The Humber,2025,Forecast,5.8493
+Yorkshire and The Humber,2026,Forecast,5.709
+Yorkshire and The Humber,2027,Forecast,5.7792
+Yorkshire and The Humber,2028,Forecast,5.7441
+Yorkshire and The Humber,2029,Forecast,5.7616
