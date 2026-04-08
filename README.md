@@ -130,15 +130,6 @@ All data sourced from the **Office for National Statistics (ONS)** — publicly 
 
 ---
 
-## Tech Stack
-
-- Python (Pandas, NumPy, Statsmodels, Scikit-learn)  
-- SQL (data handling & preparation)  
-- Tableau (dashboard development)  
-- Jupyter Notebook  
-
----
-
 ## 🚀 Future Improvements
 
 - Incorporate rental market and demographic datasets
@@ -146,6 +137,24 @@ All data sourced from the **Office for National Statistics (ONS)** — publicly 
 - Extend spatial analysis to Local Authority District level with interactive mapping
 - Build automated real-time ONS data pipeline
   
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Usage |
+|---|---|
+| Python (Pandas, NumPy) | **Data cleaning, transformation, and exploratory data analysis (EDA)**. Handles tabular data efficiently and performs calculations for time-series and affordability metrics. |
+| Statsmodels / Scikit-learn | **Time-series modelling, forecasting, and validation**. Includes ARIMA, Exponential Smoothing, Linear Regression, Random Forest, and walk-forward evaluation. |
+| Matplotlib / Seaborn | **Static visualisations** for trends, model outputs, and EDA charts to support analysis. |
+| Google Colab | **Interactive analysis environment** for documenting code, workflow, and insights; ensures reproducibility and cloud-based execution. |
+| Tableau (LOD Expressions) | **Dynamic calculated fields, FIXED LOD, and aggregations** to support complex KPI calculations. |
+| Tableau (Dashboard Design) | **Interactive dashboards** with filters, parameter controls, and dynamic text for stakeholder-friendly insights. |
+
+💡 **Workflow note:**  
+1. **Python in Colab** → Data cleaning, EDA, and modelling  
+2. **Colab Notebook** → Documenting analysis and visualising intermediate results  
+3. **Tableau** → Creating interactive dashboards and KPIs to communicate findings effectively
+
 ---
 
 ## Contact
