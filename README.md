@@ -33,13 +33,33 @@ Turn complex housing data into **clear insights and forecasts** that show:
 
 ---
 
-## Key Insights
+## Primary Stakeholder
 
-- UK affordability worsened from **5.12 (2002)** → **8.05 (2024)**  
-- **House prices consistently outpace earnings**, indicating structural pressure  
-- **London & South East** are the least affordable regions; **North East** is most affordable  
-- Forecast shows continued pressure with UK ratio reaching **8.43 by 2029**  
-- Regional analysis reveals **hidden disparities** not visible in aggregate data
+This analysis is designed for property investors and real estate analysts seeking to identify high-growth regions while managing affordability risk across the UK housing market.
+
+---
+
+## Key Decision Insights
+
+- London and South East show sustained price growth but worsening affordability, indicating high entry cost and elevated investment risk.
+
+- Northern regions (e.g., North East, North West) demonstrate relatively stable affordability with moderate growth, suggesting stronger long-term investment potential.
+
+- Nationwide affordability deterioration (**57% increase**) indicates structural market pressure, requiring selective regional investment rather than broad exposure.
+
+- Forecast trends suggest continued affordability strain, reinforcing the need for early positioning in emerging growth regions(from **5.12 (2002)** → **8.05 (2024)**).
+  
+---
+
+## Investment Recommendations
+
+- Prioritise regions with balanced growth and affordability (e.g., North West, Yorkshire) for long-term ROI.
+
+- Limit exposure to high-cost regions (e.g., London) unless targeting premium or short-term gains.
+
+- Monitor post-2020 accelerated growth trends to identify overheating markets and manage downside risk.
+
+- Use affordability ratios as a leading indicator for regional investment strategy and portfolio diversification.
 
 ---
 
