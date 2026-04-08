@@ -6,7 +6,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-🚀 End-to-end data analytics project analyzing UK housing affordability trends using ONS data, time-series forecasting, and Tableau dashboards.
+🚀 End-to-end analysis of 7,255 records across 318 UK local authorities — quantifying a 57% affordability deterioration (2002–2024) and forecasting regional trends to 2029 using validated time-series models (RMSE: 0.51).
 
 ---
 
@@ -45,9 +45,12 @@ Turn complex housing data into **clear insights and forecasts** that show:
 
 ## Tableau Dashboard Visuals
 
+![Dashboard](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/UK%20Housing%20Affordability%20Dashboard.png)
+
+
 ### 📈 UK Affordability Trend
 
-![UK Trend - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/UK%20Trend%20(Dasboard%20Worksheet).png)
+![UK Trend - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/UK%20Trend%20(Dashboard%20Worksheet).png)
 
 📊 Built in Tableau to simulate real-world business dashboards
 
@@ -55,7 +58,7 @@ Turn complex housing data into **clear insights and forecasts** that show:
 
 ### 🌍 Regional Comparison
 
-![Regional Comparison - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/Regional%20Comaprison%20(Dasboard%20Worksheet).png)
+![Regional Comparison - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/Regional%20Comaparison%20(Dashboard%20Worksheet).png)
 
 📊 Shows strong regional disparities
 
@@ -63,9 +66,23 @@ Turn complex housing data into **clear insights and forecasts** that show:
 
 ### 📊 Model Validation (Actual vs Predicted)
 
-![Validation Chart - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/Validation%20ResultsActual%20vs%20Predicted%20Chart%20(Dasboard%20Worksheet).png)
+![Validation Chart - Tableau](https://raw.githubusercontent.com/imeshaB/UK-Housing-Affordability-Analysis/master/Outputs/Figures/Validation%20Results%20Actual%20vs%20Predicted%20Chart%20(Dashboard%20Worksheet).png)
 
 📊 Confirms reliability of forecasting models
+
+---
+
+## 🗂️ Data Sources
+
+All data sourced from the **Office for National Statistics (ONS)** — publicly available.
+
+| Dataset | Description | Link |
+|---|---|---|
+| Housing Purchase Affordability, Local Authority Areas, England and Wales | Affordability ratios at LA level across 318 authorities | [ONS ↗](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/housingpurchaseaffordabilitylocalauthorityareasenglandandwales) |
+| House Price to Residence-Based Earnings Ratio | Lower quartile and median price-to-earnings ratios by region | [ONS ↗](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ratioofhousepricetoresidencebasedearningslowerquartileandmedian) |
+
+> Data covers **2002–2024** across **318 local authorities** and **10 English regions**.
+> Downloaded as published ONS Excel files and processed into analytical format using Python.
 
 ---
 
@@ -102,25 +119,14 @@ Turn complex housing data into **clear insights and forecasts** that show:
 
 ---
 
-## Relevance to Roles
+## 🎯 Domain Applicability
 
-### 🏥 NHS / Public Sector
-
-- Population-level analysis of housing inequality  
-- Evidence-based policy insights  
-- Supports resource allocation and service planning  
-
-### 💼 Consulting
-
-- Structured approach: Problem → Analysis → Insights → Forecast  
-- Communicates actionable insights to stakeholders  
-- Shows ability to **deliver client-ready dashboards**
-
-### 📊 Data Analyst Roles
-
-- Demonstrates data cleaning, validation, EDA  
-- Shows forecasting and modelling expertise  
-- Builds **reliable dashboards** for insight communication  
+| Sector | Relevance |
+|---|---|
+| 🏥 Public Sector / NHS | Housing inequality correlates with health deprivation — findings inform resource allocation and service planning |
+| 💼 Consulting / Policy | Structured problem → analysis → forecast pipeline mirrors client engagement methodology |
+| 🏦 Financial Services | Affordability ratio modelling transferable to mortgage risk, credit exposure, and regional investment strategy |
+| 📊 Data & Analytics | End-to-end pipeline from raw ONS data to validated forecast to production Tableau dashboard |
 
 ---
 
@@ -133,13 +139,13 @@ Turn complex housing data into **clear insights and forecasts** that show:
 
 ---
 
-## Future Improvements
+## 🚀 Future Improvements
 
-- Integrate rental & demographic datasets  
-- Apply advanced forecasting models (Prophet, LSTM)  
-- Build interactive dashboard deployment  
-- Automate real-time data pipeline  
-
+- Incorporate rental market and demographic datasets
+- Apply advanced forecasting models (Prophet, LSTM)
+- Extend spatial analysis to Local Authority District level with interactive mapping
+- Build automated real-time ONS data pipeline
+  
 ---
 
 ## Contact
@@ -148,7 +154,3 @@ Turn complex housing data into **clear insights and forecasts** that show:
 - 💼 LinkedIn: [imeshabandara](https://www.linkedin.com/in/imeshabandara/)  
 
 ---
-
-## ⭐ If you found this useful
-
-Give this project a ⭐ — it helps visibility and supports my work!
